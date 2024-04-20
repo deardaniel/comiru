@@ -1,7 +1,0 @@
-kids:
- - name: Hana
-   username: '1234567890'
-   password: 'tiger'
- - name: Shimajiro
-   username: '1234567891'
-   password: 'tiger'

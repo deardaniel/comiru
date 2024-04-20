@@ -1,0 +1,7 @@
+kids:
+ - name: Emmet
+   username: '123456'
+   password: 'block'
+ - name: Wyldstyle
+   username: '234567'
+   password: 'piece'
